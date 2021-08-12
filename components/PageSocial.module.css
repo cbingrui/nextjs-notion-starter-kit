@@ -72,27 +72,6 @@
   fill: var(--fg-color);
 }
 
-.facebook .actionBgPane {
-  background: #3b5998;
-}
-.facebook:hover {
-  border-color: #3b5998;
-}
-
-.twitter .actionBgPane {
-  background: #2795e9;
-}
-.twitter:hover {
-  border-color: #2795e9;
-}
-
-.linkedin .actionBgPane {
-  background: #0077b5;
-}
-.linkedin:hover {
-  border-color: #0077b5;
-}
-
 .github .actionBgPane {
   background: #c9510c;
 }
